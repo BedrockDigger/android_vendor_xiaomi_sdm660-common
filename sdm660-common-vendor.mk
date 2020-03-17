@@ -575,7 +575,6 @@ PRODUCT_PACKAGES += \
     libantradio \
     libgpustats \
     libsdm-disp-vndapis \
-    libthermalclient \
     vendor.qti.hardware.fm@1.0 \
     SoterService \
     WfdService \
